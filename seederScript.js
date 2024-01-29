@@ -1,3 +1,5 @@
+// script to add data to the database
+
 require("dotenv").config();
 
 const productData = require("./data/products");
